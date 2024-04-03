@@ -9,5 +9,5 @@
   
 #### Nikto
 
-*Nikto is a pluggable web server and CGI scanner written in Perl, using rfp's LibWhisker to perform fast security or informational checks.
+* Nikto is a pluggable web server and CGI scanner written in Perl, using rfp's LibWhisker to perform fast security or informational checks.
 [Video Tutorial](https://youtu.be/ogUN8Nrr__g?si=IrAeiAIOoKnLqxXg)
