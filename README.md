@@ -17,4 +17,9 @@
 * Nmap is a powerful tool for finding open ports, examining hosts, and extracting useful information about the services that each port uses.
 [Video Tutorial](https://youtu.be/W7076RPIgfQ?si=48XduZPOksyaPsLL)
 
-##### unix-prevesc-check
+
+#### unix-privesc-check 
+
+* The tool tries to find corrupt files that could allow local unprivileged users to escalate privileges to other users or to access local apps.
+[Video Tutorial](https://youtu.be/PDwWcX0a_Pk)
+
