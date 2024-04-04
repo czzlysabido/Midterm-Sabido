@@ -158,3 +158,35 @@
 * This package contains the rockyou.txt wordlist and has an installation size of 134 MB.
   [Video Tutorial](https://www.youtube.com/watch?v=kA-eWYzjX8c)
 
+
+
+
+## Wireless Attacks
+
+#### 1. Aircrack-ng
+* Aircrack-ng is an 802.11a/b/g WEP/WPA cracking program that can recover a 40-bit, 104-bit, 256-bit or 512-bit WEP key once enough encrypted packets have been gathered. Also it can attack WPA1/2 networks with some advanced methods or simply by brute force.
+  [Video Tutorial](https://www.youtube.com/watch?v=4rnrfbb1-Wg)
+
+#### 2. Fern-wifi-cracker
+* This package contains a Wireless security auditing and attack software program written using the Python Programming Language and the Python Qt GUI library, the program is able to crack and recover WEP/WPA/WPS keys and also run other network based attacks on wireless or ethernet based networks.
+  [Video Tutorial](https://www.youtube.com/watch?v=eRSMlS-OU_Y)
+
+#### 3. Kismet
+* Kismet is a wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework.
+  [Video Tutorial](https://www.youtube.com/watch?v=Ru4hGWaVuAA)
+
+#### 4. Pixiewps
+* Pixiewps is a tool written in C used to bruteforce offline the WPS pin exploiting the low or non-existing entropy of some APs (pixie dust attack). It is meant for educational purposes only.
+  [Video Tutorial](https://www.youtube.com/watch?v=SY0WMHTCCOM)
+
+#### 5. Reaver
+* Reaver performs a brute force attack against an access point’s Wi-Fi Protected Setup pin number. Once the WPS pin is found, the WPA PSK can be recovered and alternately the AP’s wireless settings can be reconfigured. This package also provides the Wash executable, an utility for identifying WPS enabled access points. See documentation in /usr/share/doc/reaver/README.WASH.
+  [Video Tutorial](https://www.youtube.com/watch?v=z0_ynxmr-d8)
+
+#### 6. Wifite
+* Wifite is a tool to audit WEP or WPA encrypted wireless networks. It uses aircrack-ng, pyrit, reaver, tshark tools to perform the audit.
+  [Video Tutorial](https://www.youtube.com/watch?v=HfoBfuQfYYA)
+
+
+
+
