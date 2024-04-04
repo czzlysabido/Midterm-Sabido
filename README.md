@@ -154,3 +154,7 @@
 * Ophcrack is a Windows password cracker based on a time-memory trade-off using rainbow tables. This is a new variant of Hellman’s original trade-off, with better performance. It recovers 99.9% of alphanumeric passwords in seconds.
   [Video Tutorial](https://www.youtube.com/watch?v=iPBWwCSWKCYw)
 
+#### 9. Wordlists
+* This package contains the rockyou.txt wordlist and has an installation size of 134 MB.
+  [Video Tutorial](https://www.youtube.com/watch?v=kA-eWYzjX8c)
+
