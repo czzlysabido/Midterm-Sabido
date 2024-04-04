@@ -190,3 +190,50 @@
 
 
 
+## Engineering
+
+#### 1. Clang
+* Clang project is a C, C++, Objective C and Objective C++ front-end for the LLVM compiler. Its goal is to offer a replacement to the GNU Compiler Collection (GCC).
+  [Video Tutorial](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
+
+#### 2. NASM shell
+* Netwide Assembler. NASM will currently output flat-form binary files, a.out, COFF and ELF Unix object files, and Microsoft 16-bit DOS and Win32 object files.
+Also included is NDISASM, a prototype x86 binary-file disassembler which uses the same instruction table as NASM.
+  [Video Tutorial](https://www.youtube.com/watch?v=lHyf8UJlfgE&t=74s)
+
+#### 3. Radare2
+* The project aims to create a complete, portable, multi-architecture, unix-like toolchain for reverse engineering.
+
+It is composed by an hexadecimal editor (radare) with a wrapped IO layer supporting multiple backends for local/remote files, debugger (OS X, BSD, Linux, W32), stream analyzer, assembler/disassembler (rasm) for x86, ARM, PPC, m68k, Java, MSIL, SPARC, code analysis modules and scripting facilities. A bindiffer named radiff, base converter (rax), shellcode development helper (rasc), a binary information extractor supporting PE, mach0, ELF, class, etc. named rabin, and a block-based hash utility called rahash.
+  [Video Tutorial](https://www.youtube.com/watch?v=oW8Ey5STrPI&list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQ)
+
+
+
+
+
+##Exploitation Tools
+
+#### 1. Crackmapexec
+* This package is a swiss army knife for pentesting Windows/Active Directory environments.
+From enumerating logged on users and spidering SMB shares to executing psexec style attacks, auto-injecting Mimikatz/Shellcode/DLL’s into memory using Powershell, dumping the NTDS.dit and more.
+  [Video Tutorial](https://www.youtube.com/watch?v=IY_VyAz3JGA)
+
+#### 2. Metasploit Framework
+* The Metasploit Framework is an open source platform that supports vulnerability research, exploit development, and the creation of custom security tools.
+  [Video Tutorial](https://www.youtube.com/watch?v=Yb0nQF-DTWg)
+
+#### 3. MSF Payload Creator
+* MSFPC stands for MSFvenom Payload Creator. It is a graphical user interface (GUI) to generate payloads using the advanced MSFvenom tool in Kali Linux. MSFvenom is very powerful but requires manually typing long commands for payload creation
+  [Video Tutorial](https://www.youtube.com/watch?v=Yb0nQF-DTWg)
+
+#### 4. SearchSploit
+* SearchSploit is a command-line tool that allows us to search and browse all the exploits available at exploitdb.
+  [Video Tutorial](https://www.youtube.com/watch?v=_VpL4gqGIQw)
+
+#### 5. Social Engineering Toolkit
+* The Social-Engineer Toolkit (SET) is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack in a fraction of time. These kind of tools use human behaviors to trick them to the attack vectors.
+  [Video Tutorial](https://www.youtube.com/watch?v=FE-FN_QUPWs)
+
+
+
+
