@@ -134,6 +134,23 @@
 * Hashcat is an advanced CPU/GPU-based password recovery utility supporting seven unique modes of attack for over 100 optimized hashing algorithms.
   [Video Tutorial](https://www.youtube.com/watch?v=5fy6Lq1vgZk)
 
-### 4. Hashcat
+### 4. Hydra
 * Hydra is a parallelized login cracker which supports numerous protocols to attack. It is very fast and flexible, and new modules are easy to add.
   [Video Tutorial](https://www.youtube.com/watch?v=kadJLB2rYWo)
+
+### 5. John
+* John the Ripper is a tool designed to help systems administrators to find weak (easy to guess or crack through brute force) passwords, and even automatically mail users warning them about it, if it is desired.
+  [Video Tutorial](https://www.youtube.com/watch?v=nV2HEU7HIdY)
+
+### 6. Medusa
+* Medusa is intended to be a speedy, massively parallel, modular, login brute-forcer. The goal is to support as many services which allow remote authentication as possible.
+  [Video Tutorial](https://www.youtube.com/watch?v=ANE5qhZsm7U)
+
+### 7. Ncrack
+* Ncrack is a high-speed network authentication cracking tool. It was built to help companies secure their networks by proactively testing all their hosts and networking devices for poor passwords. Security professionals also rely on Ncrack when auditing their clients. Ncrack was designed using a modular approach, a command-line syntax similar to Nmap and a dynamic engine that can adapt its behaviour based on network feedback. It allows for rapid, yet reliable large-scale auditing of multiple hosts.
+  [Video Tutorial](https://www.youtube.com/watch?v=xlUOJGDC0aw)
+
+### 8. Ophcrack
+* Ophcrack is a Windows password cracker based on a time-memory trade-off using rainbow tables. This is a new variant of Hellman’s original trade-off, with better performance. It recovers 99.9% of alphanumeric passwords in seconds.
+  [Video Tutorial](https://www.youtube.com/watch?v=iPBWwCSWKCYw)
+
