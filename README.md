@@ -110,4 +110,30 @@
 
 
 
+## Database Assessment
 
+### 1. Sqlmap
+* sqlmap goal is to detect and take advantage of SQL injection vulnerabilities in web applications. Once it detects one or more SQL injections on the target host, the user can choose among a variety of options to perform an extensive back-end database management system fingerprint, retrieve DBMS session user and database, enumerate users, password hashes, privileges, databases, dump entire or user’s specific DBMS tables/columns, run his own SQL statement, read specific files on the file system and more.
+[Video Tutorial](https://youtu.be/OpX3PMjFj_M)
+
+
+
+
+
+## Password Attacks
+
+### 1. Cewl
+* CeWL (Custom Word List generator) is a ruby app which spiders a given URL, up to a specified depth, and returns a list of words which can then be used for password crackers such as John the Ripper. Optionally, CeWL can follow external links.
+  [Video Tutorial](https://www.youtube.com/watch?v=dPx7-TC-cTI)
+
+### 2. Crunch
+* Crunch is a wordlist generator where you can specify a standard character set or any set of characters to be used in generating the wordlists. The wordlists are created through combination and permutation of a set of characters. You can determine the amount of characters and list size.
+  [Video Tutorial](https://www.youtube.com/watch?v=0ouVxR7hLvE)
+
+### 3. Hashcat
+* Hashcat is an advanced CPU/GPU-based password recovery utility supporting seven unique modes of attack for over 100 optimized hashing algorithms.
+  [Video Tutorial](https://www.youtube.com/watch?v=5fy6Lq1vgZk)
+
+### 4. Hashcat
+* Hydra is a parallelized login cracker which supports numerous protocols to attack. It is very fast and flexible, and new modules are easy to add.
+  [Video Tutorial](https://www.youtube.com/watch?v=kadJLB2rYWo)
