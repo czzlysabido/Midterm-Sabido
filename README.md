@@ -234,6 +234,10 @@ From enumerating logged on users and spidering SMB shares to executing psexec st
 * The Social-Engineer Toolkit (SET) is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack in a fraction of time. These kind of tools use human behaviors to trick them to the attack vectors.
   [Video Tutorial](https://www.youtube.com/watch?v=FE-FN_QUPWs)
 
+#### 6. Sqlmap 
+* sqlmap goal is to detect and take advantage of SQL injection vulnerabilities in web applications. Once it detects one or more SQL injections on the target host, the user can choose among a variety of options to perform an extensive back-end database management system fingerprint, retrieve DBMS session user and database, enumerate users, password hashes, privileges, databases, dump entire or user’s specific DBMS tables/columns, run his own SQL statement, read specific files on the file system and more.
+[Video Tutorial](https://youtu.be/OpX3PMjFj_M)
+
 
 
 
