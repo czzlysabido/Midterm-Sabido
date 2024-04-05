@@ -3,7 +3,7 @@
 **by [Crizzalie Sabido](https://www.instagram.com/crzzlymsc/) and [John Francis Lomeda](https://www.facebook.com/ahhlanahhhh/)**
 
 ## Ethical Hacking Tools
-1. Information Gathering
+1. [Information Gathering](#information-gathering)
 2. Vulnerability Analysis
 3. Web Application Analysis
 4. Database Assessment
