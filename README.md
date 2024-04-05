@@ -295,5 +295,66 @@ From enumerating logged on users and spidering SMB shares to executing psexec st
 
 
 
+## Post Exploitation
+
+#### 1. Evil-winrm
+
+* Evil-winrm tool is originally written by the team Hackplayers. The purpose of this tool is to make penetration testing easy as possible especially in the Microsoft Windows environment. Evil-winrm works with PowerShell remoting protocol (PSRP).
+  [Video Tutorial](https://youtu.be/tVgJ-9FJKxE?si=N-YSwz6sz25zCyQx)
+  
+#### 2. Exe2hex
+
+* Exe2hex is a tool developed by g0tmilk which can be found here. The tool transcribes EXE into a series of hexadecimal strings which can be restored into the original EXE file by using DEBUG.exe or Powershell. This script can then be executed at the victim machine to construct an exe again and execute it.
+[Video Tutorial](https://youtu.be/EhWeQ7vkIg4?si=itidEL0aMthy0a0h)
+
+#### 3. Impacket
+
+* Impacket is a collection of Python3 classes focused on providing access to network packets. Impacket allows Python3 developers to craft and decode network packets in simple and consistent manner. It includes support for low-level protocols such as IP, UDP and TCP, as well as higher-level protocols such as NMB and SMB. 
+[Video Tutorial]( https://youtu.be/VCoNI3SvePM?si=YluzkYmO9MyHc3ft)
+
+
+#### 4. Mimikatz
+
+* Mimikatz is an open-source application which allows users to view and save authentication credentials on Windows machines. Lab Tool: Kali Linux and Windows. Lab Topology: You can use Kali Linux in a VM and a Windows machine for this lab.
+[Video Tutorial]( https://youtu.be/XuZ9SyY5GYs?si=kofiKdujrxjhOMMt)
+
+
+#### 5. Netcat
+
+* A simple Unix utility which reads and writes data across network connections using TCP or UDP protocol.
+[Video Tutorial]( https://youtu.be/OHSRrNrIX00?si=b8JTweU5lJDDwUwK)
+
+#### 6. Powershell Empire 
+
+* Empire is a popular post-exploitation tool for Windows, Linux, and macOS. In general, Empire is a PowerShell-specific version of the Metasploit tool. It enables you to link back to your PC and run PowerShell scripts in memory. INSTALLATION. For Kali Linux: sudo apt install powershell-empire.
+[Video Tutorial]( https://youtu.be/6eqrnZzffJ4?si=G_E6vxqGcKycC5uI)
+
+#### 7. Powersploit
+
+* PowerSploit is a series of Microsoft PowerShell scripts that can be used in post-exploitation scenarios during authorized penetration tests.
+[Video Tutorial]( https://youtu.be/4b5c25x7Esw?si=uUZLXp9y3M8oa5Sw)
+
+#### 8. Proxychains4 
+
+* Proxychains is a UNIX program, that hooks network-related libc functions in dynamically linked programs via a preloaded DLL (dlsym(), LD_PRELOAD) and redirects the connections through SOCKS4a/5 or HTTP proxies. It supports TCP only (no UDP/ICMP etc).
+[Video Tutorial]( https://youtu.be/KWwOU1z5E8E?si=P_E0WonY5aONr9a9)
+
+#### 9. Starkiller 
+
+* Starkiller is the official graphical user interface created to allow multiple penetration testers to connect and control the Empire server.
+[Video Tutorial]( https://youtu.be/zFlsxrGMScE?si=xSsgT_HfcvXF9C4G)
+
+#### 10. Weevely
+
+* Weevely is a stealth PHP web shell that simulate telnet-like connection. It is an essential tool for web application post exploitation, and can be used as stealth backdoor or as a web shell to manage legit web accounts, even free hosted ones. 
+[Video Tutorial]( https://youtu.be/o5k27rhTmjI?si=ScCdiKS8M03m_gIB)
+
+
+
+
+
+
+
+
 
 
