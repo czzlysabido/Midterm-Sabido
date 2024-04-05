@@ -353,6 +353,36 @@ From enumerating logged on users and spidering SMB shares to executing psexec st
 
 
 
+## Forensics
+
+#### 1. Autopsy(root)
+
+* The Autopsy is a cyber forensic tool used for the analysis of Windows and UNIX file systems (NTFS, FAT, FFS, EXT2FS, and EXT3FS). It can also be used to recover deleted files and also show various sectors of uploaded images making it easier to make an in-depth analysis of the image.
+  [Video Tutorial]( https://youtu.be/9AyiRITI9HI?si=PU-TJazmL0-2Ow32)
+  
+#### 2. Binwalk
+
+* Binwalk is a tool for searching a given binary image for embedded files and executable code. Specifically, it is designed for identifying files and code embedded inside of firmware images. Binwalk uses the libmagic library, so it is compatible with magic signatures created for the Unix file utility.
+[Video Tutorial]( https://youtu.be/g8fVT0hC1iw?si=-PF7Uf6rD65yMJRB)
+
+#### 3. Bulk_extrator
+
+* Bulk_extractor is a C++ program that scans a disk image, a file, or a directory of files and extracts useful information without parsing the file system or file system structures. The results are stored in feature files that can be easily inspected, parsed, or processed with automated tools. 
+[Video Tutorial]( https://youtu.be/hVQ-PmTZDR0?si=OkaP6x4lQPzakBi6)
+
+
+#### 4. Hashdeep
+
+* Hashdeep is a flexible tool for computing, comparing, and auditing file hashes. It is intended for report and list hash-based evaluation.
+[Video Tutorial]( https://youtu.be/vUT_wlLJ6x0?si=RWulk3u09IIU65Yz)
+
+
+
+
+
+
+
+
 
 
 
