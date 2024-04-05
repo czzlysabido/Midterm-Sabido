@@ -2,6 +2,30 @@
 # Midterm Project
 **by [Crizzalie Sabido](https://www.instagram.com/crzzlymsc/) and [John Francis Lomeda](https://www.facebook.com/ahhlanahhhh/)**
 
+## Ethical Hacking Tools
+1. Information Gathering
+2. Vulnerability Analysis
+3. Web Application Analysis
+4. Database Assessment
+5. Password Attacks
+6. Wireless Attacks
+7. Reverse Engineering
+8. Exploitation Tools
+9. Sniffing & Spoofing
+10. Post Exploitation
+11. Forensics
+12. Reporting Tools
+13. Social Engineering Tools
+
+
+
+
+
+
+
+
+
+
 ## Information Gathering
 
 #### 1. Amass
