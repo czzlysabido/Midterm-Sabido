@@ -242,3 +242,58 @@ From enumerating logged on users and spidering SMB shares to executing psexec st
 
 
 
+
+## Sniffing and Spoofing
+
+#### 1. Ettercap-graphical
+
+* Ettercap supports active and passive dissection of many protocols (even encrypted ones) and includes many features for network and host analysis. Data injection in an established connection and filtering (substitute or drop a packet) on the fly is also possible, keeping the connection synchronized.
+  [Video Tutorial](https://youtu.be/nf5bV9LsovE?si=8luId8vuhd-kmJrB)
+  
+#### 2. Macchanger
+
+* MAC Changer is an utility that makes the manipulations of MAC addresses of network interfaces easier. MAC addresses are unique identifiers on networks, they only need to be unique, they can be changed on most network hardware.
+[Video Tutorial]( https://youtu.be/bshXz5r-CQA)
+
+#### 3. Minicom
+
+* Minicom is a clone of the MS-DOS “Telix” communication program. It emulates ANSI and VT102 terminals, has a dialing directory and auto zmodem download. 
+[Video Tutorial]( https://youtu.be/ir42uCFcC5Y?si=S-YtN_3xEFdbdEXF)
+
+
+#### 4. Mitmproxy
+
+* MITM Proxy can allow a Penetration Tester to examine the attacks quickly and see what requests and responses are coming from the web browser. MITM Proxy can be launched by going to Kali | Sniffing/Spoofing | Web Sniffers and selecting mitmproxy.
+[Video Tutorial]( https://youtu.be/ervVOeBHIok?si=rSm1CRsj4bSxjG31)
+
+
+#### 5. Netsniff-ng
+
+* netsniff-ng is a high performance Linux network sniffer for packet inspection. It can be used for protocol analysis, reverse engineering or network debugging. The gain of performance is reached by 'zero-copy' mechanisms, so that the kernel does not need to copy packets from kernelspace to userspace.
+[Video Tutorial]( https://youtu.be/arYh1Z3A66k)
+
+#### 6. Responder 
+
+* Responder is an inbuilt Kali Linux tool for Link-Local Multicast Name Resolution (LLMNR) and NetBIOS Name Service (NBT-NS) that responds to specific NetBIOS queries based on the file server request. 
+[Video Tutorial]( https://youtu.be/qIsUCVvJ-3U?si=BGXTrySgHdL95z53)
+
+#### 7. Scapy
+
+* Scapy is a powerful interactive packet manipulation tool, packet generator, network scanner, network discovery, packet sniffer, etc.
+[Video Tutorial]( https://youtu.be/YKxKnVE5FaE)
+
+#### 8. Tcpdump 
+
+* This program allows you to dump the traffic on a network. tcpdump is able to examine IPv4, ICMPv4, IPv6, ICMPv6, UDP, TCP, SNMP, AFS BGP, RIP, PIM, DVMRP, IGMP, SMB, OSPF, NFS and many other packet types.
+[Video Tutorial]( https://youtu.be/uN6CSiX8fQQ?si=d66cocjiurgIMNIK)
+
+#### 9. Wireshark 
+
+* Wireshark is the most widely used network protocol analyzer tool, formerly known as Ethereal. It is open source and free. Wireshark is commonly used for network analysis and investigation. It continuously captures network transactions and displays them in an understandable format.
+[Video Tutorial]( https://youtu.be/lX1cmvphoOk?si=kT8ArxKJOvdZt_23)
+
+
+
+
+
+
