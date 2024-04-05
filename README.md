@@ -419,6 +419,30 @@ From enumerating logged on users and spidering SMB shares to executing psexec st
 
 
 
+## Social Engineering Tools
+
+#### 1. Maltego (Installer)
+
+*  Maltego is an open source intelligence and forensics application. It will offer you timous mining and gathering of information as well as the representation of this information in a easy to understand format. This package replaces previous packages matlegoce and casefile.
+  [Video Tutorial]( https://youtu.be/JgSI-hlX870?si=Dp1YcmVYFuELfa47)
+  
+#### 2. MSF Payload Creator
+
+* MSFPC stands for MSFvenom Payload Creator. It is a graphical user interface (GUI) to generate payloads using the advanced MSFvenom tool in Kali Linux. MSFvenom is very powerful but requires manually typing long commands for payload creation.
+[Video Tutorial]( https://youtu.be/D_XuiU3T-GI?si=QDSm218vSbqbVuES)
+
+#### 3. Social Engineering Toolkit (root)
+
+* Social engineering toolkit is a free and open-source tool which is used for social engineering attacks like phishing, sending SMS, faking phone, etc. 
+[Video Tutorial]( https://youtu.be/FE-FN_QUPWs?si=KPOAIKptQNpGliV8)
+
+
+
+
+
+
+
+
 
 
 
