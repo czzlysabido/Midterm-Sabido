@@ -380,6 +380,48 @@ From enumerating logged on users and spidering SMB shares to executing psexec st
 
 
 
+## Reporting Tools
+
+#### 1. CherryTree
+
+* CherryTree is a hierarchical note taking application, featuring rich text, syntax highlighting, images handling, hyperlinks, import/export with support for multiple formats, support for multiple languages, and more.
+  [Video Tutorial]( https://youtu.be/vlmlb2kqbfo?si=lOuWCM2W-rV9E5JU)
+  
+#### 2. Cutycapt
+
+* CutyCapt is a small cross-platform command-line utility to capture WebKit's rendering of a web page into a variety of vector and bitmap formats, including SVG, PDF, PS, PNG, JPEG, TIFF, GIF, and BMP. 
+[Video Tutorial]( https://youtu.be/azpTgUBl0Fk?si=MCKVnJ1bd-N21WOm)
+
+#### 3. Faraday Start
+
+* Faraday is a GUI application that consists of a ZSH terminal and a sidebar with details about your workspaces and hosts. When Faraday supports the command you are running, it will automatically detect it and import the results. 
+[Video Tutorial]( https://youtu.be/QJUYEmhOUbA?si=HuteUNDNa1lHMFNs)
+
+
+#### 4. Maltego (Installer)
+
+* Maltego is an open source intelligence and forensics application. It will offer you timous mining and gathering of information as well as the representation of this information in a easy to understand format. This package replaces previous packages matlegoce and casefile.
+[Video Tutorial]( https://youtu.be/JgSI-hlX870?si=Dp1YcmVYFuELfa47)
+
+#### 5. Pipal 
+
+* All this tool does is to give you the stats and the information to help you analyse the passwords 
+[Video Tutorial]( https://youtu.be/aU90UD0VAAM?si=bZ5-VwlkwPikzWWJ)
+
+
+#### 6. Recordmydesktop 
+
+* RecordMyDesktop produces a file(default out.ogv) that contains a video and audio recording. of a linux desktop session. The default behavior of recording is to mark areas that have changed(through libxdamage) and update the frame. This behavior can be changed (option --full-shots ) to produce a more accurate result..
+[Video Tutorial]( https://youtu.be/m6BWgetTvPo?si=LHQlQRArMubKentj)
+
+
+
+
+
+
+
+
+
 
 
 
