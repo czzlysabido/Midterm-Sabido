@@ -5,7 +5,7 @@
 ## Ethical Hacking Tools
 1. [Information Gathering](#information-gathering)
 2. [Vulnerability Analysis](#vulnerability-analysis)
-3. Web Application Analysis
+3. [Web Application Analysis](#Web-Application-Analysis)
 4. Database Assessment
 5. Password Attacks
 6. Wireless Attacks
